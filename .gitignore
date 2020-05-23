@@ -1,6 +1,6 @@
 .ipynb_checkpoints/
 
-*.js
+*.json
 *.zip
 *.pdf
 *.csv
