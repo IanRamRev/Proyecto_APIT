@@ -1,6 +1,7 @@
 .ipynb_checkpoints/
-
+SEL/
 *.json
 *.zip
 *.pdf
 *.csv
+*.txt
