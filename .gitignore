@@ -1,5 +1,8 @@
 .ipynb_checkpoints/
 SEL/
+TASS2019/
+TitularesTrain
+
 *.json
 *.zip
 *.pdf
