@@ -4,6 +4,7 @@ TASS2019/
 TitularesTrain/
 TweetsTest/
 TweetsTrainSentiment/
+Escrito/
 
 *.json
 *.zip
