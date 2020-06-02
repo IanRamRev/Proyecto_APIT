@@ -1,7 +1,9 @@
 .ipynb_checkpoints/
 SEL/
 TASS2019/
-TitularesTrain
+TitularesTrain/
+TweetsTest/
+TweetsTrainSentiment/
 
 *.json
 *.zip
