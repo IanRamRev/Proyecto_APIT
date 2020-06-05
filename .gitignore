@@ -5,7 +5,9 @@ TitularesTrain/
 TweetsTest/
 TweetsTrainSentiment/
 Escrito/
+Resp/
 
+*.rar
 *.json
 *.zip
 *.pdf
